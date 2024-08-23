@@ -8,7 +8,8 @@ Sistema de Semáforo: Especificar os requisitos do nosso sistema através das in
     • Vamos fazer o diagrama de Classes
     
 # 3. Implementar a solução com Arduíno
-    •Utilizaremos a IDE do Arduíno
+    •Utilizaremos a IDE do Arduíno IDE 2.3.2
+    Link: https://www.arduino.cc/en/software
     
 # 4. Montagem/Prototipação: “Executar” no simulador thinkercad ou na placa de Arduino.
 
